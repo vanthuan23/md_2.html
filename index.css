@@ -1,0 +1,40 @@
+img {
+    border: 2px solid orange;
+    width: 235px;
+    height: 235px;
+}
+
+.bi {
+    margin-left: 40px;
+    color: orange;
+}
+
+b {
+    color: white;
+    padding: 5px;
+}
+
+p {
+    margin-left: 40px;
+    font-size: 20px;
+    color: white;
+}
+
+h2 {
+    font-family: Georgia;
+}
+
+u {
+    color: white;
+    font-size: 30px;
+}
+
+.da {
+    color: orange;
+}
+
+ins {
+    margin-left: 60px;
+    color: orange;
+    font-size: 18px;
+}
